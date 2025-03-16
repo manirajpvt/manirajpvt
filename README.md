@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Maniraj
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on devops
+- 🌱 I’m currently learning web development html css bootstrap
+- 💞️ I’m looking to collaborate on webdevelopment
 - 📫 How to reach me through mail: manirajpvt@gmail.com
-- 😄 Pronouns🧞‍♂️
+- 😄 Pronouns🧞‍♂️ MANIRAJ
 
 
 <!---
